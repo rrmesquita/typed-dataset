@@ -1,0 +1,15 @@
+{
+    "name": "typed-dataset",
+    "version": "1.0.0",
+    "description": "Cast dataset attributes to their designated types.",
+    "keywords": [
+        "vanilla"
+    ],
+    "author": {
+        "name": "Rodrigo Mesquita"
+    },
+    "license": "ISC",
+    "dependencies": {
+        "camelcase": "^7.0.1"
+    }
+}
